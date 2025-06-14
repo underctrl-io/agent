@@ -20,6 +20,7 @@
     "@ai-sdk/google": "^1.2.19",
     "@commandkit/ai": "^0.1.0-dev.20250614074051",
     "commandkit": "^1.0.0-dev.20250614074051",
-    "discord.js": "^14.19.3"
+    "discord.js": "^14.19.3",
+    "weather-js": "^2.0.0"
   }
 }
