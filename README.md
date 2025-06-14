@@ -1,6 +1,6 @@
 # Agent 🤖
 
-Agent is an advanced AI-powered Discord bot that leverages natural language processing to provide an intuitive and powerful interaction experience. Built with modern technologies, it offers a seamless way to manage Discord servers and engage with communities through various features.
+Agent is an advanced AI-powered Discord bot built with [CommandKit](https://commandkit.dev/) that leverages natural language processing to provide an intuitive and powerful interaction experience. Built with modern technologies, it offers a seamless way to manage Discord servers and engage with communities through various features.
 
 ## ✨ Features
 
