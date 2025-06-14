@@ -14,6 +14,8 @@ Agent is an advanced AI-powered Discord bot built with [CommandKit](https://comm
 > [!NOTE]
 > This repository is just a simple example of what can be built with Agent. The actual implementation may vary based on your specific needs and requirements.
 
+> Did you know that this project was vibe coded? 🤖 You can do that yourself by utilizing https://commandkit.dev/llms.txt in your code editor such as Cursor.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
