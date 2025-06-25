@@ -5,8 +5,8 @@
       "name": "agent",
       "dependencies": {
         "@ai-sdk/google": "^1.2.19",
-        "@commandkit/ai": "^0.1.0-dev.20250614074051",
-        "commandkit": "^1.0.0-dev.20250614074051",
+        "@commandkit/ai": "^0.1.0-dev.20250625125434",
+        "commandkit": "^1.0.0-dev.20250625125434",
         "discord.js": "^14.19.3",
         "weather-js": "^2.0.0",
       },
@@ -86,7 +86,7 @@
 
     "@babel/types": ["@babel/types@7.27.6", "", { "dependencies": { "@babel/helper-string-parser": "^7.27.1", "@babel/helper-validator-identifier": "^7.27.1" } }, "sha512-ETyHEk2VHHvl9b9jZP5IHPavHYk57EhanlRRuae9XCpb/j5bDCbPPMOBfCWhnl/7EDJz0jEMCi/RhccCE8r1+Q=="],
 
-    "@commandkit/ai": ["@commandkit/ai@0.1.0-dev.20250614074051", "", { "dependencies": { "ai": "^4.3.16", "zod": "^3.25.48" } }, "sha512-gQLeTf8GW3377n2ZnOKQ2BQEiS+2h364nIVVkS6Ghczmhi11Sbqr6Kz37wQoWjrOUCl7MUvucIbKh8o80vlDnQ=="],
+    "@commandkit/ai": ["@commandkit/ai@0.1.0-dev.20250625125434", "", { "dependencies": { "ai": "^4.3.16", "zod": "^3.25.48" } }, "sha512-0fVtPbr7OrK2yu39t9nND+sM9A0LpXVVOpAQ3JTZzEjtBcRSpH9AIASReXRby3Mfg6/HNzXwANHYtqwpdtXABw=="],
 
     "@discordjs/builders": ["@discordjs/builders@1.11.2", "", { "dependencies": { "@discordjs/formatters": "^0.6.1", "@discordjs/util": "^1.1.1", "@sapphire/shapeshift": "^4.0.0", "discord-api-types": "^0.38.1", "fast-deep-equal": "^3.1.3", "ts-mixer": "^6.0.4", "tslib": "^2.6.3" } }, "sha512-F1WTABdd8/R9D1icJzajC4IuLyyS8f3rTOz66JsSI3pKvpCAtsMBweu8cyNYsIyvcrKAVn9EPK+Psoymq+XC0A=="],
 
@@ -242,7 +242,7 @@
 
     "commander": ["commander@13.1.0", "", {}, "sha512-/rFeCpNJQbhSZjGVwO9RFV3xPqbnERS8MmIQzCtD/zl6gpJuV/bMLuN92oG3F7d8oDEHHRrujSXNUr8fpjntKw=="],
 
-    "commandkit": ["commandkit@1.0.0-dev.20250614074051", "", { "dependencies": { "@rollup/plugin-json": "^6.1.0", "chokidar": "^4.0.3", "commander": "^13.0.0", "directive-to-hof": "^0.0.2", "dotenv": "^16.4.7", "ms": "^2.1.3", "ora": "^8.0.1", "picocolors": "^1.1.1", "rfdc": "^1.3.1", "rimraf": "^6.0.0", "tsdown": "^0.12.7", "use-macro": "^1.1.0" }, "peerDependencies": { "discord.js": "^14" }, "bin": { "commandkit": "bin/index.mjs" } }, "sha512-nyS0DVqnmIvAeZYR40xa8dTrGBE5hUIfR3CFClAqPTFCy0o0IDW4xiHLG6Ltl+5z2BtEPg/wG5sek1Jya5Aaow=="],
+    "commandkit": ["commandkit@1.0.0-dev.20250625125434", "", { "dependencies": { "@rollup/plugin-json": "^6.1.0", "chokidar": "^4.0.3", "commander": "^13.0.0", "directive-to-hof": "^0.0.2", "dotenv": "^16.4.7", "ms": "^2.1.3", "ora": "^8.0.1", "picocolors": "^1.1.1", "rfdc": "^1.3.1", "rimraf": "^6.0.0", "tsdown": "^0.12.7", "use-macro": "^1.1.0" }, "peerDependencies": { "discord.js": "^14" }, "bin": { "commandkit": "bin/index.mjs" } }, "sha512-McY0djfMaI/r2w3R7lxRmTFa8sotFgHwJo5grT/SW3+qjVa8MT/TZLYL0wpkHVWngLrJtl1wGHc5PNul+faWHw=="],
 
     "convert-source-map": ["convert-source-map@2.0.0", "", {}, "sha512-Kvp459HrV2FEJ1CAsi1Ku+MY3kasH19TFykTz2xWmMeq6bk2NU3XXvfJ+Q61m0xktWwt+1HSYf3JZsTms3aRJg=="],
 
