@@ -43,7 +43,7 @@ export const generateImageTool = createTool({
     const { prompt } = parameters;
     const { message } = ctx;
 
-    const channel = message.channel as TextBasedChannel;
+    const channel = message.channel;
 
     if (!channel.isSendable()) {
       return {

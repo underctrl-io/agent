@@ -10,10 +10,10 @@
     "start": "commandkit start"
   },
   "dependencies": {
-    "@ai-sdk/google": "^1.2.19",
-    "@commandkit/ai": "^0.1.0-dev.20250625125434",
-    "commandkit": "^1.0.0-dev.20250625125434",
-    "discord.js": "^14.20.0",
+    "@ai-sdk/google": "^1.2.22",
+    "@commandkit/ai": "^0.1.0-dev.20250704024641",
+    "commandkit": "^1.0.0-dev.20250704024641",
+    "discord.js": "^14.21.0",
     "weather-js": "^2.0.0"
   },
   "devDependencies": {

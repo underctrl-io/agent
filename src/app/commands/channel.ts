@@ -106,7 +106,6 @@ export const ai: AiCommand<typeof aiConfig> = async (ctx) => {
       };
 
       const newChannel = await ctx.message.guild.channels.create(
-        // @ts-ignore
         channelOptions
       );
       createdChannels.push(newChannel);
