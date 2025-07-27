@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^1.2.22",
-    "@commandkit/ai": "^0.1.0-dev.20250704024641",
-    "commandkit": "^1.0.0-dev.20250704024641",
+    "@commandkit/ai": "^0.1.0-dev.20250727130732",
+    "@commandkit/tasks": "^0.0.0-dev.20250727130732",
+    "@types/ms": "^2.1.0",
+    "commandkit": "^1.0.0-dev.20250727130732",
     "discord.js": "^14.21.0",
+    "ms": "^2.1.3",
     "weather-js": "^2.0.0"
   },
   "devDependencies": {
