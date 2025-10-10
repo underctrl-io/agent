@@ -41,7 +41,7 @@ const channelConfig = z.object({
 });
 
 export const aiConfig = {
-  parameters: z.object({
+  inputSchema: z.object({
     channels: z
       .array(channelConfig)
       .min(1)

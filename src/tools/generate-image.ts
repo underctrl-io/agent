@@ -4,7 +4,6 @@ import {
   AttachmentBuilder,
   GuildTextBasedChannel,
   PermissionFlagsBits,
-  TextBasedChannel,
 } from 'discord.js';
 import { Logger } from 'commandkit';
 
@@ -34,7 +33,7 @@ async function generateImage(prompt: string) {
 export const generateImageTool = createTool({
   name: 'generate-image',
   description: 'Generate an image with the given prompt',
-  parameters: z.object({
+  inputSchema: z.object({
     prompt: z
       .string()
       .describe('The prompt to use in order to generate an image'),

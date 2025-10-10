@@ -48,7 +48,7 @@ const pollMediaObject = z
   );
 
 export const aiConfig = {
-  parameters: z
+  inputSchema: z
     .object({
       question: pollMediaObject,
       answers: z

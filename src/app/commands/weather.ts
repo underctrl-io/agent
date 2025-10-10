@@ -43,7 +43,7 @@ export const command: CommandData = {
 };
 
 export const aiConfig = {
-  parameters: z.object({
+  inputSchema: z.object({
     location: z.string().describe('The location to get weather for'),
     unit: z
       .enum(['C', 'F'])

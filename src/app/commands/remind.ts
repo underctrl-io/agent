@@ -26,7 +26,7 @@ export const command: CommandData = {
 };
 
 export const aiConfig = {
-  parameters: z.object({
+  inputSchema: z.object({
     time: z
       .string()
       .describe(
